@@ -1,0 +1,50 @@
+.content-main {
+    margin-left: 17.7%;
+    width: auto;
+    padding-top: 10px;
+  }
+.submit{
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid greenyellow;
+    background-color: greenyellow;
+    
+}
+.table-main{
+    width: auto;
+    border: none;
+}
+td{
+    width: 1200px;
+    padding: 0.1rem;
+    
+}
+
+label{
+    left: 0;
+    font-weight: 600;
+    
+}
+
+.form-element-title{
+    text-align: center;
+    text-decoration: none;
+    font-size: 32px;
+    border-bottom: 1px solid rgb(85, 26, 129);
+    font-weight: bolder;
+    padding-bottom: 3px;
+    background-color: rgb(21,23,28);
+    color: white;
+    padding-top: 0;
+    width: 1200px;
+}
+
+textarea{
+    width: 1200px;
+    border: 0.5px solid  rgb(85,26,129);
+    height: 120px;
+    margin: 15px 0px 5px 0px;
+    padding: 5px;
+}
+
+

@@ -1,0 +1,46 @@
+
+.dt-table,
+.dt-table-th,
+.dt-table-td,
+.dt-table-title {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.dt-table {
+    width: 97%;
+   margin-top: 0;
+  
+  
+}
+
+.dt-table-title {
+    font-size: 32px;
+    height: 35px;
+    background-color: black;
+    color: white;
+}
+
+.dt-table-child,
+.dt-table-child-td,
+.dt-table-child-th {
+    border: 1px solid black;
+    text-align: center;
+
+}
+
+.dt-table-child {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+.dt-back:hover{
+   background-color: aqua;
+   font-weight: 600;
+   color: white;
+
+}
